@@ -8,7 +8,7 @@ Lorsque vous travaillez avec des tableaux, il est facile de supprimer des élém
 
 La méthode `pop()` supprime le dernier élément d'un tableau :
 
-``` let fruits = ["Banana", "Orange", "Apple", "Mango"];```
+``` let fruits = ["Banana", "Orange", "Apple", "Mango"];```  
 ``` fruits.pop();   // Removes the last element ("Mango") from fruits```
 
 La méthode `pop()` retourne la valeur qui a été "extraite" :
