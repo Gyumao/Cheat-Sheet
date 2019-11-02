@@ -11,7 +11,7 @@ C'est du déjà vue.
 
 Attention!! ne pas créer la Git Hub pages manuellement. La source doit rester en "NONE".
 
-![GitHub Pages](https://github.com/melou-dev/cheatsheet/blob/master/vue/images/github-pages.png)
+![GitHub Pages](https://github.com/Gyumao/Cheat-Sheet/blob/master/VueJS/picture/github-pages.png)
 
 Depuis le terminal dans le projet vue.
 ```
@@ -29,7 +29,7 @@ avec `code .` ou `vim .` dans le terminal
 * ouvrir le fichier **.gitignore**
 * desactiver la ligne `/ dist` en mettant un **#** devant.
 
-![screenshot gitignore](https://github.com/melou-dev/cheatsheet/blob/master/vue/images/screenshot-gitignore.png)
+![screenshot gitignore](https://github.com/Gyumao/Cheat-Sheet/blob/master/VueJS/picture/screenshot-gitignore.png)
 
 
 ## Créer vue.config.js
@@ -45,7 +45,7 @@ module.exports = {
 }
 ```
 
-![screenshot vue.config.js](https://github.com/melou-dev/cheatsheet/blob/master/vue/images/Screenshot%20vueconfigjs.png)
+![screenshot vue.config.js](https://github.com/Gyumao/Cheat-Sheet/blob/master/VueJS/picture/Screenshot%20vueconfigjs.png)
 
 
 ## Créer deploy.sh
